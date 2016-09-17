@@ -9,6 +9,6 @@
 ### Tool:
  + Modern Workflow for Modern Applications
  + Node Module
- + `yo` command
+ + Command: `yo`
  + Current Version: `1.8.5`
  + ~4300 different generators
