@@ -4,5 +4,83 @@
     "introduction-2.md",
     "installation.md",
     "generators.md",
+    [
+        "example-install.md",
+        {
+            "filename": "example-install/example-install-vertical-0.md",
+            "attr": {
+                "data-transition": "none"
+            }
+        },
+        {
+            "filename": "example-install/example-install-vertical-1.md",
+            "attr": {
+                "data-transition": "none"
+            }
+        },
+        {
+            "filename": "example-install/example-install-vertical-2.md",
+            "attr": {
+                "data-transition": "none"
+            }
+        }
+    ],
+    [
+        "example-run.md",
+        {
+            "filename": "example-run/example-run-vertical-0.md",
+            "attr": {
+                "data-transition": "none"
+            }
+        },
+        {
+            "filename": "example-run/example-run-vertical-1.md",
+            "attr": {
+                "data-transition": "none"
+            }
+        },
+        {
+            "filename": "example-run/example-run-vertical-2.md",
+            "attr": {
+                "data-transition": "none"
+            }
+        },
+        {
+            "filename": "example-run/example-run-vertical-3.md",
+            "attr": {
+                "data-transition": "none"
+            }
+        },
+        {
+            "filename": "example-run/example-run-vertical-4.md",
+            "attr": {
+                "data-transition": "none"
+            }
+        },
+        {
+            "filename": "example-run/example-run-vertical-5.md",
+            "attr": {
+                "data-transition": "none"
+            }
+        },
+        {
+            "filename": "example-run/example-run-vertical-6.md",
+            "attr": {
+                "data-transition": "none"
+            }
+        },
+        {
+            "filename": "example-run/example-run-vertical-7.md",
+            "attr": {
+                "data-transition": "none"
+            }
+        },
+        {
+            "filename": "example-run/example-run-vertical-8.md",
+            "attr": {
+                "data-transition": "none"
+            }
+        }
+    ],
     "resources.md"
 ]
