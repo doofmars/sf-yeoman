@@ -109,5 +109,14 @@
             }
         }
     ],
+    [
+        "use.md",
+        {
+            "filename": "slide-title.md",
+            "attr": {
+                "data-transition": "none"
+            }
+        }
+    ],
     "resources.md"
 ]
