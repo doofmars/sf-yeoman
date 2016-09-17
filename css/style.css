@@ -2,3 +2,9 @@
         background: rgba(255, 255, 255, 0) none repeat scroll 0 0 !important;
         border: 0px !important;
     }
+
+
+    .reveal section img {
+        background: 0 !important;
+        border: 0 !important;
+    }
