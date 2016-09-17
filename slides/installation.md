@@ -4,10 +4,10 @@
 
 Yo and the generators used are installed using npm.
 
-Use for Yeoman
+Install Yeoman:
 
     npm install -g yo
 
-Use for Generators
+Install a Generator:
 
     npm install -g generator-webapp
