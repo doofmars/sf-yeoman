@@ -8,3 +8,7 @@
         background: 0 !important;
         border: 0 !important;
     }
+
+    .highlight {
+        background: rgba(10, 10, 10, 0.7);
+    }
