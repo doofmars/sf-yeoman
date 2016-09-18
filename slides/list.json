@@ -6,25 +6,25 @@
         {
             "filename": "goal/goal-vertical-0.md",
             "attr": {
-                "data-background-image": "../resources/goal0.jpg"
+                "data-background-image": "resources/goal0.jpg"
             }
         },
         {
             "filename": "goal/goal-vertical-1.md",
             "attr": {
-                "data-background-image": "../resources/goal1.jpg"
+                "data-background-image": "resources/goal1.jpg"
             }
         },
         {
             "filename": "goal/goal-vertical-2.md",
             "attr": {
-                "data-background-image": "../resources/goal2.jpg"
+                "data-background-image": "resources/goal2.jpg"
             }
         },
         {
             "filename": "goal/goal-vertical-3.md",
             "attr": {
-                "data-background-image": "../resources/goal3.jpg"
+                "data-background-image": "resources/goal3.jpg"
             }
         }
     ],

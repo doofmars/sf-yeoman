@@ -1,6 +1,6 @@
 ##  What is Yeoman?
 
-<img src="../resources/scaffold1.jpg" alt="scaffold" style="width: 40%;"/>
+<img src="resources/scaffold1.jpg" alt="scaffold" style="width: 40%;"/>
 
 Scaffolding Tool
 

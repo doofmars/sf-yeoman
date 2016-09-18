@@ -1,3 +1,3 @@
 ## Execute
 
-![terminal](../resources/yoB1.png)
+![terminal](resources/yoB1.png)

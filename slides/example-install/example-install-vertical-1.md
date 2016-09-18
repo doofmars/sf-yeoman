@@ -1,3 +1,3 @@
 ## Installation
 
-![terminal](../resources/install-generator1.png)
+![terminal](resources/install-generator1.png)

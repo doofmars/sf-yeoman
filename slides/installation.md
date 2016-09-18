@@ -1,6 +1,6 @@
 ##  Installation
 
-<img src="../resources/nodejs.png" alt="nodejs" style="width: 40%;"/>
+<img src="resources/nodejs.png" alt="nodejs" style="width: 40%;"/>
 
 Yo and the generators used are installed using npm.
 

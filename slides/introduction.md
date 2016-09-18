@@ -1,6 +1,6 @@
 ##  Yeoman
 <div class="figure">
-    <img src="../resources/yeoman-real.jpg" alt="yeoman-real" style="width: 30%; float:left;"/>
+    <img src="resources/yeoman-real.jpg" alt="yeoman-real" style="width: 30%; float:left;"/>
 </div>
 
 

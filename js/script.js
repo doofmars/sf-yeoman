@@ -12,7 +12,7 @@ function playNew() {
     var tag = document.createElement('audio');
     tag.setAttribute('preload', 'auto');
     tag.setAttribute('autoplay', 'autoplay');
-    tag.setAttribute('src', '../resources/mp3_inception.mp3');
+    tag.setAttribute('src', 'resources/mp3_inception.mp3');
     tag.setAttribute('id', 'audio' + id);
     zone.appendChild(tag);
     tag.play();

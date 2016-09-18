@@ -1,6 +1,6 @@
 ##  Generators
 
-<img src="../resources/generators0.png" alt="generators0" style="width: 40%;"/>
+<img src="resources/generators0.png" alt="generators0" style="width: 40%;"/>
 
  + 'Plugins' for Yeoman to generate the scaffolding
  + Many different generators:
