@@ -1,12 +1,21 @@
 ##  Example
 ### Create a presentation with Reveal.js (Installation)
 
-Install Bower and Grunt with npm:
+<div class="fragment">
+    <p>Install Bower and Grunt with npm:</p>
+    <pre>
+        <code data-trim data-noescape>
+            npm install -g bower
+            npm install -g grunt
+        </code>
+    </pre>
+</div>
 
-    npm install -g bower
-    npm install -g grunt
-
-Install the generator:
-
-    npm install -g generator-reveal
-
+<div class="fragment">
+    <p>Install the generator:</p>
+    <pre>
+        <code data-trim data-noescape>
+            npm install -g generator-reveal
+        </code>
+    </pre>
+</div>

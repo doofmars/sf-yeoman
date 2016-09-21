@@ -4,10 +4,23 @@
 
 Yo and the generators used are installed using npm.
 
-Install Yeoman:
+<div class="fragment">
+    <p>Install Yeoman:</p>
+    <pre>
+        <code data-trim data-noescape>
+            npm install -g yo
+        </code>
+    </pre>
+</div>
 
-    npm install -g yo
+<div class="fragment">
+    <p>Install a Generator:</p>
 
-Install a Generator:
+    <pre>
+        <code data-trim data-noescape>
+            npm install -g generator-webapp
+        </code>
+    </pre>
+</div>
 
-    npm install -g generator-webapp
+
