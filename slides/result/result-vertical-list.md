@@ -1,6 +1,6 @@
 ## slides/list.json
 
-```
+<pre><code data-trim data-noescape>
 [
     "index.html",
     "introduction.md",
@@ -26,4 +26,5 @@
             }
         }
     [...]
-```
+</code></pre>
+The order of slides is defined as simple JSON array

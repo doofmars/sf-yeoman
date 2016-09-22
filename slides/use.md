@@ -4,7 +4,7 @@ To view the Slides:
 
     grunt serve
 
-This command will:
+This command will: <!-- .element: class="fragment" -->
  + Build the Index file from template <!-- .element: class="fragment" -->
  + Connect the presentation with livereload <!-- .element: class="fragment" -->
  + Start a Webserver on port 9000 <!-- .element: class="fragment" -->
