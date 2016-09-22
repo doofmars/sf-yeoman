@@ -127,12 +127,6 @@
             "attr": {
                 "data-transition": "none"
             }
-        },
-        {
-            "filename": "result/result-vertical-index.md",
-            "attr": {
-                "data-transition": "none"
-            }
         }
     ],
     "use.md",
