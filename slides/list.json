@@ -1,0 +1,145 @@
+[
+    "index.md",
+    "introduction.md",
+    [
+        "introduction-2.md",
+        {
+            "filename": "goal/goal-vertical-0.md",
+            "attr": {
+                "data-background-image": "resources/goal0.jpg"
+            }
+        },
+        {
+            "filename": "goal/goal-vertical-1.md",
+            "attr": {
+                "data-background-image": "resources/goal1.jpg"
+            }
+        },
+        {
+            "filename": "goal/goal-vertical-2.md",
+            "attr": {
+                "data-background-image": "resources/goal2.jpg"
+            }
+        },
+        {
+            "filename": "goal/goal-vertical-3.md",
+            "attr": {
+                "data-background-image": "resources/goal3.jpg"
+            }
+        }
+    ],
+    "installation.md",
+    "generators.md",
+    [
+        "example-install.md",
+        {
+            "filename": "example-install/example-install-vertical-0.md",
+            "attr": {
+                "data-transition": "none"
+            }
+        },
+        {
+            "filename": "example-install/example-install-vertical-1.md",
+            "attr": {
+                "data-transition": "none"
+            }
+        },
+        {
+            "filename": "example-install/example-install-vertical-2.md",
+            "attr": {
+                "data-transition": "none"
+            }
+        }
+    ],
+    [
+        "example-run.md",
+        {
+            "filename": "example-run/example-run-vertical-0.md",
+            "attr": {
+                "data-transition": "none"
+            }
+        },
+        {
+            "filename": "example-run/example-run-vertical-1.md",
+            "attr": {
+                "data-transition": "none"
+            }
+        },
+        {
+            "filename": "example-run/example-run-vertical-2.md",
+            "attr": {
+                "data-transition": "none"
+            }
+        },
+        {
+            "filename": "example-run/example-run-vertical-3.md",
+            "attr": {
+                "data-transition": "none"
+            }
+        },
+        {
+            "filename": "example-run/example-run-vertical-4.md",
+            "attr": {
+                "data-transition": "none"
+            }
+        },
+        {
+            "filename": "example-run/example-run-vertical-5.md",
+            "attr": {
+                "data-transition": "none"
+            }
+        },
+        {
+            "filename": "example-run/example-run-vertical-6.md",
+            "attr": {
+                "data-transition": "none"
+            }
+        },
+        {
+            "filename": "example-run/example-run-vertical-7.md",
+            "attr": {
+                "data-transition": "none"
+            }
+        },
+        {
+            "filename": "example-run/example-run-vertical-8.md",
+            "attr": {
+                "data-transition": "none"
+            }
+        }
+    ],
+    [
+        "result.md",
+        {
+            "filename": "result/result-vertical-gruntfile.md",
+            "attr": {
+                "data-transition": "none"
+            }
+        },
+        {
+            "filename": "result/result-vertical-list.md",
+            "attr": {
+                "data-transition": "none"
+            }
+        },
+        {
+            "filename": "result/result-vertical-sample-slide.md",
+            "attr": {
+                "data-transition": "none"
+            }
+        }
+    ],
+    "use.md",
+    [
+        "subgenerators.md",
+        {
+            "filename": "slide-title.md",
+            "attr": {
+                "data-transition": "none"
+            }
+        }
+    ],
+    "summary.md",
+    "questions.md",
+    "resources.md"
+]
