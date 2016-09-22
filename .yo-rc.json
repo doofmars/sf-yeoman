@@ -1,9 +1,0 @@
-{
-  "generator-reveal": {
-    "presentationTitle": "Yeoman",
-    "packageVersion": "0.1.0",
-    "revealTheme": "night",
-    "useSass": false,
-    "deployToGithubPages": false
-  }
-}
