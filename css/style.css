@@ -3,7 +3,6 @@
         border: 0px !important;
     }
 
-
     .reveal section img {
         background: 0 !important;
         border: 0 !important;
@@ -12,3 +11,9 @@
     .highlight {
         background: rgba(10, 10, 10, 0.7);
     }
+
+    .line { display: block; }
+    .line.hover { background: yellow; }
+    .line.focus { background: #444; }
+
+    .line.focus .hljs-comment, .line.focus .hljs-quote { color: #adbbbf; }

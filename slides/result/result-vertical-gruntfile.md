@@ -1,6 +1,6 @@
 ## Gruntfile.coffee
 
-```
+<pre><code data-trim data-noescape>
 # Generated on 2016-08-18 using generator-reveal 0.5.9
 module.exports = (grunt) ->
 
@@ -133,3 +133,11 @@ module.exports = (grunt) ->
         'serve'
     ]
 ```
+</code></pre>
+
+<p class="fragment" data-code-focus="86-89">
+  This focuses on the comment.
+</p>
+<p class="fragment" data-code-focus="1-2">
+  Another fragment.
+</p>
