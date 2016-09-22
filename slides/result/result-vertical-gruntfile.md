@@ -125,19 +125,41 @@ module.exports = (grunt) ->
             'copy'
         ]
 
-
-
     # Define default task.
     grunt.registerTask 'default', [
         'test'
         'serve'
     ]
-```
 </code></pre>
 
-<p class="fragment current-only" data-code-focus="86-89">
-  This focuses on the comment.
+<p class="fragment current-only" data-code-focus="7">
+    Watch will monitore the code on changes and reload the page
 </p>
-<p class="fragment current-only" data-code-focus="1-2">
-  Another fragment.
+<p class="fragment current-only" data-code-focus="35">
+    Connect will manage the server connection
 </p>
+<p class="fragment current-only" data-code-focus="47,57">
+    Check your code for errors
+</p>
+<p class="fragment current-only" data-code-focus="64">
+    Copy files for build
+</p>
+<p class="fragment current-only" data-code-focus="89-103">
+    Creates the index file containing all slides
+</p>
+<p class="fragment current-only" data-code-focus="105-109">
+    Tests your code
+</p>
+<p class="fragment current-only" data-code-focus="111-115">
+    Creates the server and sets up the watch task
+</p>
+<p class="fragment current-only" data-code-focus="118-123">
+    Combines all files for deployment
+</p>
+<p class="fragment current-only" data-code-focus="125-130">
+    Default action: test and serve
+</p>
+<p class="fragment current-only" >
+    Each command can be run with ```grunt <command>```
+</p>
+
