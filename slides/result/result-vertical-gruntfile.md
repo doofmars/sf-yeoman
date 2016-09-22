@@ -135,9 +135,9 @@ module.exports = (grunt) ->
 ```
 </code></pre>
 
-<p class="fragment" data-code-focus="86-89">
+<p class="fragment current-only" data-code-focus="86-89">
   This focuses on the comment.
 </p>
-<p class="fragment" data-code-focus="1-2">
+<p class="fragment current-only" data-code-focus="1-2">
   Another fragment.
 </p>

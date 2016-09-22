@@ -17,3 +17,13 @@
     .line.focus { background: #444; }
 
     .line.focus .hljs-comment, .line.focus .hljs-quote { color: #adbbbf; }
+
+    .reveal .slides section .fragment.current-only {
+        opacity: 1;
+        visibility: visible;
+        display: none;
+    }
+
+    .reveal .slides section .fragment.current-only.current-fragment {
+        display: block;
+    }
