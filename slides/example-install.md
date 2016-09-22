@@ -3,10 +3,10 @@
 
 <div class="fragment">
     <p>Install Bower and Grunt with npm:</p>
-    <pre><code data-trim>
-        npm install -g bower
-        npm install -g grunt
-    </code></pre>
+<pre><code data-trim>
+npm install -g bower
+npm install -g grunt
+</code></pre>
 </div>
 
 <div class="fragment">
